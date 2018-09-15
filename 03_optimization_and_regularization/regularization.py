@@ -40,5 +40,4 @@ for r in (None, "l1","l2"):
 	
 	# evaluate the classifier
 	acc = model.score(testX,testY)
-#	print("[INFO} '{}' Penalty accuracy: {:.2f}%".format(r,acc*100))
 	print("[INFO] ‘{}‘ penalty accuracy: {:.2f}%".format(r,acc*100))
