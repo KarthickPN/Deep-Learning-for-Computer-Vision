@@ -1,6 +1,6 @@
 # Deep-Learning-for-Computer-Vision
 
-This repository contains the examples given in "Deep Learning for Computer Vision with Python by Adrian Rosebrock".
+This repository contains the examples given in the book "Deep Learning for Computer Vision with Python by Adrian Rosebrock".
 
 ### Table of contents
 
