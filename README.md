@@ -5,8 +5,7 @@ This repository contains the examples given in "Deep Learning for Computer Visio
 ### Table of contents
 
 ##### [01_KNN_classifier:](01_KNN_classifier)
-             
-A simple image processor was built, an image dataset was loaded into the memory and the k-Nearest Neighbor algorithm was developed. The disadvantages of k-NN algorithm was discussed and moved on to parameterized learning.
+__Summary:__ A simple image processor was built, an image dataset was loaded into the memory and the k-Nearest Neighbor algorithm was developed. The disadvantages of k-NN algorithm was discussed and moved on to parameterized learning.
              
 ##### [02_Linear_example:](02_Linear_example)
 
