@@ -12,4 +12,10 @@ A worked example is solved here. The random state of the python script to genera
 
 Implemented vanilla gradient descent and stochastic gradient descent from sratch with L1 and L2 regularization.
 
-##### 04_
+##### 04_artificial_neural_networks
+
+Develope back propagation algorithm for neural networks from scratch and demonstrated its advantages over a simple perceptron algorithm. Tested the algorithm with MNIST and CIFAR-10 dataset, discussed how standard neural networks fail to accurately classify images.
+
+##### 05_Convolutions
+
+Discussed how convolutions work in a convolutional neural network and implemented it from scratch for blurring, sharpening, edge detection, embossing, etc.
