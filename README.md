@@ -1,5 +1,7 @@
 # Deep-Learning-for-Computer-Vision
 
+This repository contains the examples given in "Deep Learning for Computer Vision with Python by Adrian Rosebrock".
+
 ##### 01_KNN_classifier:
              
 A simple image processor was built, an image dataset was loaded into the memory and the k-Nearest Neighbor algorithm was developed. The disadvantages of k-NN algorithm was discussed and moved on to parameterized learning.
